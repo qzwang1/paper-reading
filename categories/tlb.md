@@ -8,6 +8,7 @@ This section collects papers related to **GPU memory systems**, including **addr
 |---|---|---:|---:|---|
 | Supporting x86-64 Address Translation for 100s of GPU Lanes | J. Power, et al. | HPCA | 2014 | [Link](../summaries/tlb/power2014-shared-tlb.md) |
 |Neighborhood-aware address translation for  irregular GPU applications| S. Shin, M. LeBeane, Y. Solihin, and A. Basu| MICRO| 2018| [Link](../summaries/tlb/neighboorhood-aware.md)|
+|Improving GPU Multi-tenancy with  Page Walk Stealing| B. Pratheek, N Jawalkar, A Basu | HPCA | 2021 |[Link](../summaries/tlb/pw-steal.md)|
 |Trans-FW: Short Circuiting Page Table Walk in  Multi-GPU Systems via Remote Forwarding| B. Li, et al. | HPCA | 2023| [Link](../summaries/tlb/trans-fw.md)|
 | Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing GPU Throughput | J. Kim, et al. | HPCA | 2025 | [Link](../summaries/tlb/kim2025-marching-page-walks.md) |
 
