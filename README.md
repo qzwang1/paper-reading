@@ -8,4 +8,5 @@ I created this repository to **motivate myself to read papers more consistently*
 
 | Category | Description | Link |
 |-----------|--------------|------|
-| 🧩 TLB / Memory | GPU/MMU design, address translation, page walks | [View](categories/tlb.md) |
+| 🧩 TLB / Memory | GPU/MMU design, address translation, page walks | [tlb](categories/tlb.md) |
+|⚡ Energy / Architecture Efficiency| Energy-Efficient Architecture|[energy](categories/energy.md) |
